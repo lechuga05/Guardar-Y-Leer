@@ -1,0 +1,9 @@
+E:\Guardar Y Leer\Guardar Y Leer\bin\Debug\Guardar Y Leer.exe
+E:\Guardar Y Leer\Guardar Y Leer\bin\Debug\Guardar Y Leer.pdb
+E:\Guardar Y Leer\Guardar Y Leer\obj\x86\Debug\Guardar Y Leer.exe
+E:\Guardar Y Leer\Guardar Y Leer\obj\x86\Debug\Guardar Y Leer.pdb
+C:\Users\carlitos lechuga\Documents\GitHub\Guardar Y Leer\Guardar Y Leer\obj\x86\Debug\Guardar Y Leer.exe
+C:\Users\carlitos lechuga\Documents\GitHub\Guardar Y Leer\Guardar Y Leer\obj\x86\Debug\Guardar Y Leer.pdb
+C:\Users\carlitos lechuga\Documents\GitHub\Guardar Y Leer\Guardar Y Leer\bin\Debug\Guardar Y Leer.exe
+C:\Users\carlitos lechuga\Documents\GitHub\Guardar Y Leer\Guardar Y Leer\bin\Debug\Guardar Y Leer.pdb
+C:\Users\carlitos lechuga\Documents\GitHub\Guardar Y Leer\Guardar Y Leer\obj\x86\Debug\Guardar Y Leer.csprojResolveAssemblyReference.cache
